@@ -1,4 +1,4 @@
-# Dry
+# Dry Exercise
 
 1) We are using the snapping sheet controller class to implement the controller pattern in this library.
 with the snapping sheet controller, you can control the sheet in multiple ways - change its position,
